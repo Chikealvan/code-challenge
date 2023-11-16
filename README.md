@@ -131,7 +131,7 @@ the appropriate HTTP status code:
 ```json
 {
   "error": "Restaurant not found"
-}
+} 
 ```
 
 ### DELETE /restaurants/:id
